@@ -1,1 +1,1 @@
-Customer experience related datasets.
+Datasets related to customer experience.
