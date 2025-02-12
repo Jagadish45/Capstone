@@ -303,7 +303,7 @@ def generate_prompt(docs):
 
 def main():
   #Define groq model for evaluation
-  Groq_API_key= "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"
+  Groq_API_key= [API_KEY]
   client= Groq(api_key=Groq_API_key)
 
   #Generate prompt
